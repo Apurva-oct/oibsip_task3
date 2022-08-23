@@ -15,6 +15,10 @@ Delete tasks <br />
 
 - Navigate to the project folder (TO DO LIST) and open the `index.html` with the browser.
 
+## Link to the site
+
+[https://apurva-oct.github.io/oibsip_task3/]
+
 
 ## 👤 Authors
 
