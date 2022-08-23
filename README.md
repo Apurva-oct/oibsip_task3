@@ -17,7 +17,7 @@ Delete tasks <br />
 
 ## Link to the site
 
-[https://apurva-oct.github.io/oibsip_task3/]
+https://apurva-oct.github.io/oibsip_task3/
 
 
 ## 👤 Authors
